@@ -1,0 +1,14 @@
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core ( params, in)\Curso .Net Core ( params, in)\bin\Debug\netcoreapp3.1\Curso .Net Core ( params, in).exe
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core ( params, in)\Curso .Net Core ( params, in)\bin\Debug\netcoreapp3.1\Curso .Net Core ( params, in).deps.json
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core ( params, in)\Curso .Net Core ( params, in)\bin\Debug\netcoreapp3.1\Curso .Net Core ( params, in).runtimeconfig.json
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core ( params, in)\Curso .Net Core ( params, in)\bin\Debug\netcoreapp3.1\Curso .Net Core ( params, in).runtimeconfig.dev.json
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core ( params, in)\Curso .Net Core ( params, in)\bin\Debug\netcoreapp3.1\Curso .Net Core ( params, in).dll
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core ( params, in)\Curso .Net Core ( params, in)\bin\Debug\netcoreapp3.1\Curso .Net Core ( params, in).pdb
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core ( params, in)\Curso .Net Core ( params, in)\obj\Debug\netcoreapp3.1\Curso .Net Core ( params, in).csproj.AssemblyReference.cache
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core ( params, in)\Curso .Net Core ( params, in)\obj\Debug\netcoreapp3.1\Curso .Net Core ( params, in).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core ( params, in)\Curso .Net Core ( params, in)\obj\Debug\netcoreapp3.1\Curso .Net Core ( params, in).AssemblyInfoInputs.cache
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core ( params, in)\Curso .Net Core ( params, in)\obj\Debug\netcoreapp3.1\Curso .Net Core ( params, in).AssemblyInfo.cs
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core ( params, in)\Curso .Net Core ( params, in)\obj\Debug\netcoreapp3.1\Curso .Net Core ( params, in).csproj.CoreCompileInputs.cache
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core ( params, in)\Curso .Net Core ( params, in)\obj\Debug\netcoreapp3.1\Curso .Net Core ( params, in).dll
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core ( params, in)\Curso .Net Core ( params, in)\obj\Debug\netcoreapp3.1\Curso .Net Core ( params, in).pdb
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core ( params, in)\Curso .Net Core ( params, in)\obj\Debug\netcoreapp3.1\Curso .Net Core ( params, in).genruntimeconfig.cache

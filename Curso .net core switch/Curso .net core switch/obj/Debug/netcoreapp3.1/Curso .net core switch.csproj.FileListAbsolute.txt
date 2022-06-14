@@ -1,0 +1,14 @@
+C:\Users\Esneyder\source\repos\Curso .net core switch\Curso .net core switch\bin\Debug\netcoreapp3.1\Curso .net core switch.exe
+C:\Users\Esneyder\source\repos\Curso .net core switch\Curso .net core switch\bin\Debug\netcoreapp3.1\Curso .net core switch.deps.json
+C:\Users\Esneyder\source\repos\Curso .net core switch\Curso .net core switch\bin\Debug\netcoreapp3.1\Curso .net core switch.runtimeconfig.json
+C:\Users\Esneyder\source\repos\Curso .net core switch\Curso .net core switch\bin\Debug\netcoreapp3.1\Curso .net core switch.runtimeconfig.dev.json
+C:\Users\Esneyder\source\repos\Curso .net core switch\Curso .net core switch\bin\Debug\netcoreapp3.1\Curso .net core switch.dll
+C:\Users\Esneyder\source\repos\Curso .net core switch\Curso .net core switch\bin\Debug\netcoreapp3.1\Curso .net core switch.pdb
+C:\Users\Esneyder\source\repos\Curso .net core switch\Curso .net core switch\obj\Debug\netcoreapp3.1\Curso .net core switch.csproj.AssemblyReference.cache
+C:\Users\Esneyder\source\repos\Curso .net core switch\Curso .net core switch\obj\Debug\netcoreapp3.1\Curso .net core switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esneyder\source\repos\Curso .net core switch\Curso .net core switch\obj\Debug\netcoreapp3.1\Curso .net core switch.AssemblyInfoInputs.cache
+C:\Users\Esneyder\source\repos\Curso .net core switch\Curso .net core switch\obj\Debug\netcoreapp3.1\Curso .net core switch.AssemblyInfo.cs
+C:\Users\Esneyder\source\repos\Curso .net core switch\Curso .net core switch\obj\Debug\netcoreapp3.1\Curso .net core switch.csproj.CoreCompileInputs.cache
+C:\Users\Esneyder\source\repos\Curso .net core switch\Curso .net core switch\obj\Debug\netcoreapp3.1\Curso .net core switch.dll
+C:\Users\Esneyder\source\repos\Curso .net core switch\Curso .net core switch\obj\Debug\netcoreapp3.1\Curso .net core switch.pdb
+C:\Users\Esneyder\source\repos\Curso .net core switch\Curso .net core switch\obj\Debug\netcoreapp3.1\Curso .net core switch.genruntimeconfig.cache

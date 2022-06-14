@@ -1,0 +1,13 @@
+C:\Users\Esneyder\source\repos\Curso .net core (estructura while)\Curso .net core (estructura while)\bin\Debug\netcoreapp3.1\Curso .net core (estructura while).exe
+C:\Users\Esneyder\source\repos\Curso .net core (estructura while)\Curso .net core (estructura while)\bin\Debug\netcoreapp3.1\Curso .net core (estructura while).deps.json
+C:\Users\Esneyder\source\repos\Curso .net core (estructura while)\Curso .net core (estructura while)\bin\Debug\netcoreapp3.1\Curso .net core (estructura while).runtimeconfig.json
+C:\Users\Esneyder\source\repos\Curso .net core (estructura while)\Curso .net core (estructura while)\bin\Debug\netcoreapp3.1\Curso .net core (estructura while).runtimeconfig.dev.json
+C:\Users\Esneyder\source\repos\Curso .net core (estructura while)\Curso .net core (estructura while)\bin\Debug\netcoreapp3.1\Curso .net core (estructura while).dll
+C:\Users\Esneyder\source\repos\Curso .net core (estructura while)\Curso .net core (estructura while)\bin\Debug\netcoreapp3.1\Curso .net core (estructura while).pdb
+C:\Users\Esneyder\source\repos\Curso .net core (estructura while)\Curso .net core (estructura while)\obj\Debug\netcoreapp3.1\Curso .net core (estructura while).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esneyder\source\repos\Curso .net core (estructura while)\Curso .net core (estructura while)\obj\Debug\netcoreapp3.1\Curso .net core (estructura while).AssemblyInfoInputs.cache
+C:\Users\Esneyder\source\repos\Curso .net core (estructura while)\Curso .net core (estructura while)\obj\Debug\netcoreapp3.1\Curso .net core (estructura while).AssemblyInfo.cs
+C:\Users\Esneyder\source\repos\Curso .net core (estructura while)\Curso .net core (estructura while)\obj\Debug\netcoreapp3.1\Curso .net core (estructura while).csproj.CoreCompileInputs.cache
+C:\Users\Esneyder\source\repos\Curso .net core (estructura while)\Curso .net core (estructura while)\obj\Debug\netcoreapp3.1\Curso .net core (estructura while).dll
+C:\Users\Esneyder\source\repos\Curso .net core (estructura while)\Curso .net core (estructura while)\obj\Debug\netcoreapp3.1\Curso .net core (estructura while).pdb
+C:\Users\Esneyder\source\repos\Curso .net core (estructura while)\Curso .net core (estructura while)\obj\Debug\netcoreapp3.1\Curso .net core (estructura while).genruntimeconfig.cache

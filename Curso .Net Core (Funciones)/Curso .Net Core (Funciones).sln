@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curso .Net Core (Funciones)", "Curso .Net Core (Funciones)\Curso .Net Core (Funciones).csproj", "{DE093D19-7470-4C8D-AB93-4DB183DF4840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE093D19-7470-4C8D-AB93-4DB183DF4840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE093D19-7470-4C8D-AB93-4DB183DF4840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE093D19-7470-4C8D-AB93-4DB183DF4840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE093D19-7470-4C8D-AB93-4DB183DF4840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {003ECAC6-3B44-4B4F-8CB7-660D25D2C9AE}
+	EndGlobalSection
+EndGlobal

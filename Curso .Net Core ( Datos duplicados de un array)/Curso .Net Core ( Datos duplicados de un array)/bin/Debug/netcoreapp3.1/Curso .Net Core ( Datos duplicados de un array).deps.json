@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Curso .Net Core ( Datos duplicados de un array)/1.0.0": {
+        "runtime": {
+          "Curso .Net Core ( Datos duplicados de un array).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Curso .Net Core ( Datos duplicados de un array)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

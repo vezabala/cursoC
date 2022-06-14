@@ -1,0 +1,14 @@
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (metodo constructor\Curso .Net Core (metodo constructor\bin\Debug\netcoreapp3.1\Curso .Net Core (metodo constructor.exe
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (metodo constructor\Curso .Net Core (metodo constructor\bin\Debug\netcoreapp3.1\Curso .Net Core (metodo constructor.deps.json
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (metodo constructor\Curso .Net Core (metodo constructor\bin\Debug\netcoreapp3.1\Curso .Net Core (metodo constructor.runtimeconfig.json
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (metodo constructor\Curso .Net Core (metodo constructor\bin\Debug\netcoreapp3.1\Curso .Net Core (metodo constructor.runtimeconfig.dev.json
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (metodo constructor\Curso .Net Core (metodo constructor\bin\Debug\netcoreapp3.1\Curso .Net Core (metodo constructor.dll
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (metodo constructor\Curso .Net Core (metodo constructor\bin\Debug\netcoreapp3.1\Curso .Net Core (metodo constructor.pdb
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (metodo constructor\Curso .Net Core (metodo constructor\obj\Debug\netcoreapp3.1\Curso .Net Core (metodo constructor.csproj.AssemblyReference.cache
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (metodo constructor\Curso .Net Core (metodo constructor\obj\Debug\netcoreapp3.1\Curso .Net Core (metodo constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (metodo constructor\Curso .Net Core (metodo constructor\obj\Debug\netcoreapp3.1\Curso .Net Core (metodo constructor.AssemblyInfoInputs.cache
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (metodo constructor\Curso .Net Core (metodo constructor\obj\Debug\netcoreapp3.1\Curso .Net Core (metodo constructor.AssemblyInfo.cs
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (metodo constructor\Curso .Net Core (metodo constructor\obj\Debug\netcoreapp3.1\Curso .Net Core (metodo constructor.csproj.CoreCompileInputs.cache
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (metodo constructor\Curso .Net Core (metodo constructor\obj\Debug\netcoreapp3.1\Curso .Net Core (metodo constructor.dll
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (metodo constructor\Curso .Net Core (metodo constructor\obj\Debug\netcoreapp3.1\Curso .Net Core (metodo constructor.pdb
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (metodo constructor\Curso .Net Core (metodo constructor\obj\Debug\netcoreapp3.1\Curso .Net Core (metodo constructor.genruntimeconfig.cache

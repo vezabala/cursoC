@@ -1,0 +1,14 @@
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 4 (condicionales)\curso .net core clase 4 (condicionales)\bin\Debug\netcoreapp3.1\curso .net core clase 4 (condicionales).exe
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 4 (condicionales)\curso .net core clase 4 (condicionales)\bin\Debug\netcoreapp3.1\curso .net core clase 4 (condicionales).deps.json
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 4 (condicionales)\curso .net core clase 4 (condicionales)\bin\Debug\netcoreapp3.1\curso .net core clase 4 (condicionales).runtimeconfig.json
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 4 (condicionales)\curso .net core clase 4 (condicionales)\bin\Debug\netcoreapp3.1\curso .net core clase 4 (condicionales).runtimeconfig.dev.json
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 4 (condicionales)\curso .net core clase 4 (condicionales)\bin\Debug\netcoreapp3.1\curso .net core clase 4 (condicionales).dll
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 4 (condicionales)\curso .net core clase 4 (condicionales)\bin\Debug\netcoreapp3.1\curso .net core clase 4 (condicionales).pdb
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 4 (condicionales)\curso .net core clase 4 (condicionales)\obj\Debug\netcoreapp3.1\curso .net core clase 4 (condicionales).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 4 (condicionales)\curso .net core clase 4 (condicionales)\obj\Debug\netcoreapp3.1\curso .net core clase 4 (condicionales).AssemblyInfoInputs.cache
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 4 (condicionales)\curso .net core clase 4 (condicionales)\obj\Debug\netcoreapp3.1\curso .net core clase 4 (condicionales).AssemblyInfo.cs
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 4 (condicionales)\curso .net core clase 4 (condicionales)\obj\Debug\netcoreapp3.1\curso .net core clase 4 (condicionales).csproj.CoreCompileInputs.cache
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 4 (condicionales)\curso .net core clase 4 (condicionales)\obj\Debug\netcoreapp3.1\curso .net core clase 4 (condicionales).dll
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 4 (condicionales)\curso .net core clase 4 (condicionales)\obj\Debug\netcoreapp3.1\curso .net core clase 4 (condicionales).pdb
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 4 (condicionales)\curso .net core clase 4 (condicionales)\obj\Debug\netcoreapp3.1\curso .net core clase 4 (condicionales).genruntimeconfig.cache
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 4 (condicionales)\curso .net core clase 4 (condicionales)\obj\Debug\netcoreapp3.1\curso .net core clase 4 (condicionales).csproj.AssemblyReference.cache

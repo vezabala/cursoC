@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Curso .Net core (modificador private)/1.0.0": {
+        "runtime": {
+          "Curso .Net core (modificador private).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Curso .Net core (modificador private)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Esneyder\source\repos\Curso .Net core (Bucle for)\Curso .Net core (Bucle for)\bin\Debug\netcoreapp3.1\Curso .Net core (Bucle for).exe
+C:\Users\Esneyder\source\repos\Curso .Net core (Bucle for)\Curso .Net core (Bucle for)\bin\Debug\netcoreapp3.1\Curso .Net core (Bucle for).deps.json
+C:\Users\Esneyder\source\repos\Curso .Net core (Bucle for)\Curso .Net core (Bucle for)\bin\Debug\netcoreapp3.1\Curso .Net core (Bucle for).runtimeconfig.json
+C:\Users\Esneyder\source\repos\Curso .Net core (Bucle for)\Curso .Net core (Bucle for)\bin\Debug\netcoreapp3.1\Curso .Net core (Bucle for).runtimeconfig.dev.json
+C:\Users\Esneyder\source\repos\Curso .Net core (Bucle for)\Curso .Net core (Bucle for)\bin\Debug\netcoreapp3.1\Curso .Net core (Bucle for).dll
+C:\Users\Esneyder\source\repos\Curso .Net core (Bucle for)\Curso .Net core (Bucle for)\bin\Debug\netcoreapp3.1\Curso .Net core (Bucle for).pdb
+C:\Users\Esneyder\source\repos\Curso .Net core (Bucle for)\Curso .Net core (Bucle for)\obj\Debug\netcoreapp3.1\Curso .Net core (Bucle for).csproj.AssemblyReference.cache
+C:\Users\Esneyder\source\repos\Curso .Net core (Bucle for)\Curso .Net core (Bucle for)\obj\Debug\netcoreapp3.1\Curso .Net core (Bucle for).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esneyder\source\repos\Curso .Net core (Bucle for)\Curso .Net core (Bucle for)\obj\Debug\netcoreapp3.1\Curso .Net core (Bucle for).AssemblyInfoInputs.cache
+C:\Users\Esneyder\source\repos\Curso .Net core (Bucle for)\Curso .Net core (Bucle for)\obj\Debug\netcoreapp3.1\Curso .Net core (Bucle for).AssemblyInfo.cs
+C:\Users\Esneyder\source\repos\Curso .Net core (Bucle for)\Curso .Net core (Bucle for)\obj\Debug\netcoreapp3.1\Curso .Net core (Bucle for).csproj.CoreCompileInputs.cache
+C:\Users\Esneyder\source\repos\Curso .Net core (Bucle for)\Curso .Net core (Bucle for)\obj\Debug\netcoreapp3.1\Curso .Net core (Bucle for).dll
+C:\Users\Esneyder\source\repos\Curso .Net core (Bucle for)\Curso .Net core (Bucle for)\obj\Debug\netcoreapp3.1\Curso .Net core (Bucle for).pdb
+C:\Users\Esneyder\source\repos\Curso .Net core (Bucle for)\Curso .Net core (Bucle for)\obj\Debug\netcoreapp3.1\Curso .Net core (Bucle for).genruntimeconfig.cache

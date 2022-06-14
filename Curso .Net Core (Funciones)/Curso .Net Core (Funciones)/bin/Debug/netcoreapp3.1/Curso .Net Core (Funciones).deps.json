@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Curso .Net Core (Funciones)/1.0.0": {
+        "runtime": {
+          "Curso .Net Core (Funciones).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Curso .Net Core (Funciones)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

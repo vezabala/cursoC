@@ -1,0 +1,13 @@
+C:\Users\Esneyder\Desktop\c#\Curso .net core (StringBuilder)\Curso .net core (StringBuilder)\bin\Debug\netcoreapp3.1\Curso .net core (StringBuilder).exe
+C:\Users\Esneyder\Desktop\c#\Curso .net core (StringBuilder)\Curso .net core (StringBuilder)\bin\Debug\netcoreapp3.1\Curso .net core (StringBuilder).deps.json
+C:\Users\Esneyder\Desktop\c#\Curso .net core (StringBuilder)\Curso .net core (StringBuilder)\bin\Debug\netcoreapp3.1\Curso .net core (StringBuilder).runtimeconfig.json
+C:\Users\Esneyder\Desktop\c#\Curso .net core (StringBuilder)\Curso .net core (StringBuilder)\bin\Debug\netcoreapp3.1\Curso .net core (StringBuilder).runtimeconfig.dev.json
+C:\Users\Esneyder\Desktop\c#\Curso .net core (StringBuilder)\Curso .net core (StringBuilder)\bin\Debug\netcoreapp3.1\Curso .net core (StringBuilder).dll
+C:\Users\Esneyder\Desktop\c#\Curso .net core (StringBuilder)\Curso .net core (StringBuilder)\bin\Debug\netcoreapp3.1\Curso .net core (StringBuilder).pdb
+C:\Users\Esneyder\Desktop\c#\Curso .net core (StringBuilder)\Curso .net core (StringBuilder)\obj\Debug\netcoreapp3.1\Curso .net core (StringBuilder).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esneyder\Desktop\c#\Curso .net core (StringBuilder)\Curso .net core (StringBuilder)\obj\Debug\netcoreapp3.1\Curso .net core (StringBuilder).AssemblyInfoInputs.cache
+C:\Users\Esneyder\Desktop\c#\Curso .net core (StringBuilder)\Curso .net core (StringBuilder)\obj\Debug\netcoreapp3.1\Curso .net core (StringBuilder).AssemblyInfo.cs
+C:\Users\Esneyder\Desktop\c#\Curso .net core (StringBuilder)\Curso .net core (StringBuilder)\obj\Debug\netcoreapp3.1\Curso .net core (StringBuilder).csproj.CoreCompileInputs.cache
+C:\Users\Esneyder\Desktop\c#\Curso .net core (StringBuilder)\Curso .net core (StringBuilder)\obj\Debug\netcoreapp3.1\Curso .net core (StringBuilder).dll
+C:\Users\Esneyder\Desktop\c#\Curso .net core (StringBuilder)\Curso .net core (StringBuilder)\obj\Debug\netcoreapp3.1\Curso .net core (StringBuilder).pdb
+C:\Users\Esneyder\Desktop\c#\Curso .net core (StringBuilder)\Curso .net core (StringBuilder)\obj\Debug\netcoreapp3.1\Curso .net core (StringBuilder).genruntimeconfig.cache

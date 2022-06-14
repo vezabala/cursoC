@@ -1,0 +1,13 @@
+C:\Users\Esneyder\Desktop\c#\Curso .Net core (modificador private)\Curso .Net core (modificador private)\bin\Debug\netcoreapp3.1\Curso .Net core (modificador private).exe
+C:\Users\Esneyder\Desktop\c#\Curso .Net core (modificador private)\Curso .Net core (modificador private)\bin\Debug\netcoreapp3.1\Curso .Net core (modificador private).deps.json
+C:\Users\Esneyder\Desktop\c#\Curso .Net core (modificador private)\Curso .Net core (modificador private)\bin\Debug\netcoreapp3.1\Curso .Net core (modificador private).runtimeconfig.json
+C:\Users\Esneyder\Desktop\c#\Curso .Net core (modificador private)\Curso .Net core (modificador private)\bin\Debug\netcoreapp3.1\Curso .Net core (modificador private).runtimeconfig.dev.json
+C:\Users\Esneyder\Desktop\c#\Curso .Net core (modificador private)\Curso .Net core (modificador private)\bin\Debug\netcoreapp3.1\Curso .Net core (modificador private).dll
+C:\Users\Esneyder\Desktop\c#\Curso .Net core (modificador private)\Curso .Net core (modificador private)\bin\Debug\netcoreapp3.1\Curso .Net core (modificador private).pdb
+C:\Users\Esneyder\Desktop\c#\Curso .Net core (modificador private)\Curso .Net core (modificador private)\obj\Debug\netcoreapp3.1\Curso .Net core (modificador private).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esneyder\Desktop\c#\Curso .Net core (modificador private)\Curso .Net core (modificador private)\obj\Debug\netcoreapp3.1\Curso .Net core (modificador private).AssemblyInfoInputs.cache
+C:\Users\Esneyder\Desktop\c#\Curso .Net core (modificador private)\Curso .Net core (modificador private)\obj\Debug\netcoreapp3.1\Curso .Net core (modificador private).AssemblyInfo.cs
+C:\Users\Esneyder\Desktop\c#\Curso .Net core (modificador private)\Curso .Net core (modificador private)\obj\Debug\netcoreapp3.1\Curso .Net core (modificador private).csproj.CoreCompileInputs.cache
+C:\Users\Esneyder\Desktop\c#\Curso .Net core (modificador private)\Curso .Net core (modificador private)\obj\Debug\netcoreapp3.1\Curso .Net core (modificador private).dll
+C:\Users\Esneyder\Desktop\c#\Curso .Net core (modificador private)\Curso .Net core (modificador private)\obj\Debug\netcoreapp3.1\Curso .Net core (modificador private).pdb
+C:\Users\Esneyder\Desktop\c#\Curso .Net core (modificador private)\Curso .Net core (modificador private)\obj\Debug\netcoreapp3.1\Curso .Net core (modificador private).genruntimeconfig.cache

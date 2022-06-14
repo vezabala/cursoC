@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "curso .net core clase 3 (operadores de comprobacion)", "curso .net core clase 3 (operadores de comprobacion)\curso .net core clase 3 (operadores de comprobacion).csproj", "{1CAF2F88-4F35-4F6C-8CBD-A8D6081DBABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CAF2F88-4F35-4F6C-8CBD-A8D6081DBABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAF2F88-4F35-4F6C-8CBD-A8D6081DBABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAF2F88-4F35-4F6C-8CBD-A8D6081DBABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAF2F88-4F35-4F6C-8CBD-A8D6081DBABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4C30B57-1F84-4B93-A297-6838F8B84D65}
+	EndGlobalSection
+EndGlobal

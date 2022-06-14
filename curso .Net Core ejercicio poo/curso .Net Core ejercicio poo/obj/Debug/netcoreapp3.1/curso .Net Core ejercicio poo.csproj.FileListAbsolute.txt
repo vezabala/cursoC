@@ -1,0 +1,14 @@
+C:\Users\Esneyder\Desktop\c#\curso .Net Core ejercicio poo\curso .Net Core ejercicio poo\bin\Debug\netcoreapp3.1\curso .Net Core ejercicio poo.exe
+C:\Users\Esneyder\Desktop\c#\curso .Net Core ejercicio poo\curso .Net Core ejercicio poo\bin\Debug\netcoreapp3.1\curso .Net Core ejercicio poo.deps.json
+C:\Users\Esneyder\Desktop\c#\curso .Net Core ejercicio poo\curso .Net Core ejercicio poo\bin\Debug\netcoreapp3.1\curso .Net Core ejercicio poo.runtimeconfig.json
+C:\Users\Esneyder\Desktop\c#\curso .Net Core ejercicio poo\curso .Net Core ejercicio poo\bin\Debug\netcoreapp3.1\curso .Net Core ejercicio poo.runtimeconfig.dev.json
+C:\Users\Esneyder\Desktop\c#\curso .Net Core ejercicio poo\curso .Net Core ejercicio poo\bin\Debug\netcoreapp3.1\curso .Net Core ejercicio poo.dll
+C:\Users\Esneyder\Desktop\c#\curso .Net Core ejercicio poo\curso .Net Core ejercicio poo\bin\Debug\netcoreapp3.1\curso .Net Core ejercicio poo.pdb
+C:\Users\Esneyder\Desktop\c#\curso .Net Core ejercicio poo\curso .Net Core ejercicio poo\obj\Debug\netcoreapp3.1\curso .Net Core ejercicio poo.csproj.AssemblyReference.cache
+C:\Users\Esneyder\Desktop\c#\curso .Net Core ejercicio poo\curso .Net Core ejercicio poo\obj\Debug\netcoreapp3.1\curso .Net Core ejercicio poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esneyder\Desktop\c#\curso .Net Core ejercicio poo\curso .Net Core ejercicio poo\obj\Debug\netcoreapp3.1\curso .Net Core ejercicio poo.AssemblyInfoInputs.cache
+C:\Users\Esneyder\Desktop\c#\curso .Net Core ejercicio poo\curso .Net Core ejercicio poo\obj\Debug\netcoreapp3.1\curso .Net Core ejercicio poo.AssemblyInfo.cs
+C:\Users\Esneyder\Desktop\c#\curso .Net Core ejercicio poo\curso .Net Core ejercicio poo\obj\Debug\netcoreapp3.1\curso .Net Core ejercicio poo.csproj.CoreCompileInputs.cache
+C:\Users\Esneyder\Desktop\c#\curso .Net Core ejercicio poo\curso .Net Core ejercicio poo\obj\Debug\netcoreapp3.1\curso .Net Core ejercicio poo.dll
+C:\Users\Esneyder\Desktop\c#\curso .Net Core ejercicio poo\curso .Net Core ejercicio poo\obj\Debug\netcoreapp3.1\curso .Net Core ejercicio poo.pdb
+C:\Users\Esneyder\Desktop\c#\curso .Net Core ejercicio poo\curso .Net Core ejercicio poo\obj\Debug\netcoreapp3.1\curso .Net Core ejercicio poo.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Esneyder\Desktop\c#\Curso .net core (propiedades)\Curso .net core (propiedades)\bin\Debug\netcoreapp3.1\Curso .net core (propiedades).exe
+C:\Users\Esneyder\Desktop\c#\Curso .net core (propiedades)\Curso .net core (propiedades)\bin\Debug\netcoreapp3.1\Curso .net core (propiedades).deps.json
+C:\Users\Esneyder\Desktop\c#\Curso .net core (propiedades)\Curso .net core (propiedades)\bin\Debug\netcoreapp3.1\Curso .net core (propiedades).runtimeconfig.json
+C:\Users\Esneyder\Desktop\c#\Curso .net core (propiedades)\Curso .net core (propiedades)\bin\Debug\netcoreapp3.1\Curso .net core (propiedades).runtimeconfig.dev.json
+C:\Users\Esneyder\Desktop\c#\Curso .net core (propiedades)\Curso .net core (propiedades)\bin\Debug\netcoreapp3.1\Curso .net core (propiedades).dll
+C:\Users\Esneyder\Desktop\c#\Curso .net core (propiedades)\Curso .net core (propiedades)\bin\Debug\netcoreapp3.1\Curso .net core (propiedades).pdb
+C:\Users\Esneyder\Desktop\c#\Curso .net core (propiedades)\Curso .net core (propiedades)\obj\Debug\netcoreapp3.1\Curso .net core (propiedades).csproj.AssemblyReference.cache
+C:\Users\Esneyder\Desktop\c#\Curso .net core (propiedades)\Curso .net core (propiedades)\obj\Debug\netcoreapp3.1\Curso .net core (propiedades).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esneyder\Desktop\c#\Curso .net core (propiedades)\Curso .net core (propiedades)\obj\Debug\netcoreapp3.1\Curso .net core (propiedades).AssemblyInfoInputs.cache
+C:\Users\Esneyder\Desktop\c#\Curso .net core (propiedades)\Curso .net core (propiedades)\obj\Debug\netcoreapp3.1\Curso .net core (propiedades).AssemblyInfo.cs
+C:\Users\Esneyder\Desktop\c#\Curso .net core (propiedades)\Curso .net core (propiedades)\obj\Debug\netcoreapp3.1\Curso .net core (propiedades).csproj.CoreCompileInputs.cache
+C:\Users\Esneyder\Desktop\c#\Curso .net core (propiedades)\Curso .net core (propiedades)\obj\Debug\netcoreapp3.1\Curso .net core (propiedades).dll
+C:\Users\Esneyder\Desktop\c#\Curso .net core (propiedades)\Curso .net core (propiedades)\obj\Debug\netcoreapp3.1\Curso .net core (propiedades).pdb
+C:\Users\Esneyder\Desktop\c#\Curso .net core (propiedades)\Curso .net core (propiedades)\obj\Debug\netcoreapp3.1\Curso .net core (propiedades).genruntimeconfig.cache

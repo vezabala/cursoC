@@ -1,0 +1,14 @@
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (Herencia de clases)\Curso .Net Core (Herencia de clases)\bin\Debug\netcoreapp3.1\Curso .Net Core (Herencia de clases).exe
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (Herencia de clases)\Curso .Net Core (Herencia de clases)\bin\Debug\netcoreapp3.1\Curso .Net Core (Herencia de clases).deps.json
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (Herencia de clases)\Curso .Net Core (Herencia de clases)\bin\Debug\netcoreapp3.1\Curso .Net Core (Herencia de clases).runtimeconfig.json
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (Herencia de clases)\Curso .Net Core (Herencia de clases)\bin\Debug\netcoreapp3.1\Curso .Net Core (Herencia de clases).runtimeconfig.dev.json
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (Herencia de clases)\Curso .Net Core (Herencia de clases)\bin\Debug\netcoreapp3.1\Curso .Net Core (Herencia de clases).dll
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (Herencia de clases)\Curso .Net Core (Herencia de clases)\bin\Debug\netcoreapp3.1\Curso .Net Core (Herencia de clases).pdb
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (Herencia de clases)\Curso .Net Core (Herencia de clases)\obj\Debug\netcoreapp3.1\Curso .Net Core (Herencia de clases).csproj.AssemblyReference.cache
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (Herencia de clases)\Curso .Net Core (Herencia de clases)\obj\Debug\netcoreapp3.1\Curso .Net Core (Herencia de clases).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (Herencia de clases)\Curso .Net Core (Herencia de clases)\obj\Debug\netcoreapp3.1\Curso .Net Core (Herencia de clases).AssemblyInfoInputs.cache
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (Herencia de clases)\Curso .Net Core (Herencia de clases)\obj\Debug\netcoreapp3.1\Curso .Net Core (Herencia de clases).AssemblyInfo.cs
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (Herencia de clases)\Curso .Net Core (Herencia de clases)\obj\Debug\netcoreapp3.1\Curso .Net Core (Herencia de clases).csproj.CoreCompileInputs.cache
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (Herencia de clases)\Curso .Net Core (Herencia de clases)\obj\Debug\netcoreapp3.1\Curso .Net Core (Herencia de clases).dll
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (Herencia de clases)\Curso .Net Core (Herencia de clases)\obj\Debug\netcoreapp3.1\Curso .Net Core (Herencia de clases).pdb
+C:\Users\Esneyder\Desktop\c#\Curso .Net Core (Herencia de clases)\Curso .Net Core (Herencia de clases)\obj\Debug\netcoreapp3.1\Curso .Net Core (Herencia de clases).genruntimeconfig.cache

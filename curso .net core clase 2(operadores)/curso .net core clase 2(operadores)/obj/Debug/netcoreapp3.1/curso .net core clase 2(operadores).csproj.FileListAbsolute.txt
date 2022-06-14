@@ -1,0 +1,13 @@
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 2(operadores)\curso .net core clase 2(operadores)\bin\Debug\netcoreapp3.1\curso .net core clase 2(operadores).exe
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 2(operadores)\curso .net core clase 2(operadores)\bin\Debug\netcoreapp3.1\curso .net core clase 2(operadores).deps.json
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 2(operadores)\curso .net core clase 2(operadores)\bin\Debug\netcoreapp3.1\curso .net core clase 2(operadores).runtimeconfig.json
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 2(operadores)\curso .net core clase 2(operadores)\bin\Debug\netcoreapp3.1\curso .net core clase 2(operadores).runtimeconfig.dev.json
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 2(operadores)\curso .net core clase 2(operadores)\bin\Debug\netcoreapp3.1\curso .net core clase 2(operadores).dll
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 2(operadores)\curso .net core clase 2(operadores)\bin\Debug\netcoreapp3.1\curso .net core clase 2(operadores).pdb
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 2(operadores)\curso .net core clase 2(operadores)\obj\Debug\netcoreapp3.1\curso .net core clase 2(operadores).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 2(operadores)\curso .net core clase 2(operadores)\obj\Debug\netcoreapp3.1\curso .net core clase 2(operadores).AssemblyInfoInputs.cache
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 2(operadores)\curso .net core clase 2(operadores)\obj\Debug\netcoreapp3.1\curso .net core clase 2(operadores).AssemblyInfo.cs
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 2(operadores)\curso .net core clase 2(operadores)\obj\Debug\netcoreapp3.1\curso .net core clase 2(operadores).csproj.CoreCompileInputs.cache
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 2(operadores)\curso .net core clase 2(operadores)\obj\Debug\netcoreapp3.1\curso .net core clase 2(operadores).dll
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 2(operadores)\curso .net core clase 2(operadores)\obj\Debug\netcoreapp3.1\curso .net core clase 2(operadores).pdb
+C:\Users\Esneyder\Desktop\c#\curso .net core clase 2(operadores)\curso .net core clase 2(operadores)\obj\Debug\netcoreapp3.1\curso .net core clase 2(operadores).genruntimeconfig.cache

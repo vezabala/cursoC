@@ -1,0 +1,14 @@
+C:\Users\Esneyder\source\repos\Curso .Net core ejercicio triangulo de pascal\Curso .Net core ejercicio triangulo de pascal\bin\Debug\netcoreapp3.1\Curso .Net core ejercicio triangulo de pascal.exe
+C:\Users\Esneyder\source\repos\Curso .Net core ejercicio triangulo de pascal\Curso .Net core ejercicio triangulo de pascal\bin\Debug\netcoreapp3.1\Curso .Net core ejercicio triangulo de pascal.deps.json
+C:\Users\Esneyder\source\repos\Curso .Net core ejercicio triangulo de pascal\Curso .Net core ejercicio triangulo de pascal\bin\Debug\netcoreapp3.1\Curso .Net core ejercicio triangulo de pascal.runtimeconfig.json
+C:\Users\Esneyder\source\repos\Curso .Net core ejercicio triangulo de pascal\Curso .Net core ejercicio triangulo de pascal\bin\Debug\netcoreapp3.1\Curso .Net core ejercicio triangulo de pascal.runtimeconfig.dev.json
+C:\Users\Esneyder\source\repos\Curso .Net core ejercicio triangulo de pascal\Curso .Net core ejercicio triangulo de pascal\bin\Debug\netcoreapp3.1\Curso .Net core ejercicio triangulo de pascal.dll
+C:\Users\Esneyder\source\repos\Curso .Net core ejercicio triangulo de pascal\Curso .Net core ejercicio triangulo de pascal\bin\Debug\netcoreapp3.1\Curso .Net core ejercicio triangulo de pascal.pdb
+C:\Users\Esneyder\source\repos\Curso .Net core ejercicio triangulo de pascal\Curso .Net core ejercicio triangulo de pascal\obj\Debug\netcoreapp3.1\Curso .Net core ejercicio triangulo de pascal.csproj.AssemblyReference.cache
+C:\Users\Esneyder\source\repos\Curso .Net core ejercicio triangulo de pascal\Curso .Net core ejercicio triangulo de pascal\obj\Debug\netcoreapp3.1\Curso .Net core ejercicio triangulo de pascal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esneyder\source\repos\Curso .Net core ejercicio triangulo de pascal\Curso .Net core ejercicio triangulo de pascal\obj\Debug\netcoreapp3.1\Curso .Net core ejercicio triangulo de pascal.AssemblyInfoInputs.cache
+C:\Users\Esneyder\source\repos\Curso .Net core ejercicio triangulo de pascal\Curso .Net core ejercicio triangulo de pascal\obj\Debug\netcoreapp3.1\Curso .Net core ejercicio triangulo de pascal.AssemblyInfo.cs
+C:\Users\Esneyder\source\repos\Curso .Net core ejercicio triangulo de pascal\Curso .Net core ejercicio triangulo de pascal\obj\Debug\netcoreapp3.1\Curso .Net core ejercicio triangulo de pascal.csproj.CoreCompileInputs.cache
+C:\Users\Esneyder\source\repos\Curso .Net core ejercicio triangulo de pascal\Curso .Net core ejercicio triangulo de pascal\obj\Debug\netcoreapp3.1\Curso .Net core ejercicio triangulo de pascal.dll
+C:\Users\Esneyder\source\repos\Curso .Net core ejercicio triangulo de pascal\Curso .Net core ejercicio triangulo de pascal\obj\Debug\netcoreapp3.1\Curso .Net core ejercicio triangulo de pascal.pdb
+C:\Users\Esneyder\source\repos\Curso .Net core ejercicio triangulo de pascal\Curso .Net core ejercicio triangulo de pascal\obj\Debug\netcoreapp3.1\Curso .Net core ejercicio triangulo de pascal.genruntimeconfig.cache

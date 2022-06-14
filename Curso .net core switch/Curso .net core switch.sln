@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curso .net core switch", "Curso .net core switch\Curso .net core switch.csproj", "{9CA640D9-E917-4F36-BAD2-A1D00FDDF7C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CA640D9-E917-4F36-BAD2-A1D00FDDF7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA640D9-E917-4F36-BAD2-A1D00FDDF7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA640D9-E917-4F36-BAD2-A1D00FDDF7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA640D9-E917-4F36-BAD2-A1D00FDDF7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB190F12-3CF5-4DE9-867D-F435A139A355}
+	EndGlobalSection
+EndGlobal

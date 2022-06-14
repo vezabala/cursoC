@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "curso .net core clase 2(operadores)", "curso .net core clase 2(operadores)\curso .net core clase 2(operadores).csproj", "{7C9FB610-6357-4C59-B3DD-CFBACCF99842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C9FB610-6357-4C59-B3DD-CFBACCF99842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9FB610-6357-4C59-B3DD-CFBACCF99842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9FB610-6357-4C59-B3DD-CFBACCF99842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9FB610-6357-4C59-B3DD-CFBACCF99842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F66B75F2-458A-4209-A811-3D6949B5F7E4}
+	EndGlobalSection
+EndGlobal

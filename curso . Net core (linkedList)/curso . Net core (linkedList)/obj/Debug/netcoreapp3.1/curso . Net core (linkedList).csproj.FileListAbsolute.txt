@@ -1,0 +1,14 @@
+C:\Users\Esneyder\Desktop\c#\curso . Net core (linkedList)\curso . Net core (linkedList)\bin\Debug\netcoreapp3.1\curso . Net core (linkedList).exe
+C:\Users\Esneyder\Desktop\c#\curso . Net core (linkedList)\curso . Net core (linkedList)\bin\Debug\netcoreapp3.1\curso . Net core (linkedList).deps.json
+C:\Users\Esneyder\Desktop\c#\curso . Net core (linkedList)\curso . Net core (linkedList)\bin\Debug\netcoreapp3.1\curso . Net core (linkedList).runtimeconfig.json
+C:\Users\Esneyder\Desktop\c#\curso . Net core (linkedList)\curso . Net core (linkedList)\bin\Debug\netcoreapp3.1\curso . Net core (linkedList).runtimeconfig.dev.json
+C:\Users\Esneyder\Desktop\c#\curso . Net core (linkedList)\curso . Net core (linkedList)\bin\Debug\netcoreapp3.1\curso . Net core (linkedList).dll
+C:\Users\Esneyder\Desktop\c#\curso . Net core (linkedList)\curso . Net core (linkedList)\bin\Debug\netcoreapp3.1\curso . Net core (linkedList).pdb
+C:\Users\Esneyder\Desktop\c#\curso . Net core (linkedList)\curso . Net core (linkedList)\obj\Debug\netcoreapp3.1\curso . Net core (linkedList).csproj.AssemblyReference.cache
+C:\Users\Esneyder\Desktop\c#\curso . Net core (linkedList)\curso . Net core (linkedList)\obj\Debug\netcoreapp3.1\curso . Net core (linkedList).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esneyder\Desktop\c#\curso . Net core (linkedList)\curso . Net core (linkedList)\obj\Debug\netcoreapp3.1\curso . Net core (linkedList).AssemblyInfoInputs.cache
+C:\Users\Esneyder\Desktop\c#\curso . Net core (linkedList)\curso . Net core (linkedList)\obj\Debug\netcoreapp3.1\curso . Net core (linkedList).AssemblyInfo.cs
+C:\Users\Esneyder\Desktop\c#\curso . Net core (linkedList)\curso . Net core (linkedList)\obj\Debug\netcoreapp3.1\curso . Net core (linkedList).csproj.CoreCompileInputs.cache
+C:\Users\Esneyder\Desktop\c#\curso . Net core (linkedList)\curso . Net core (linkedList)\obj\Debug\netcoreapp3.1\curso . Net core (linkedList).dll
+C:\Users\Esneyder\Desktop\c#\curso . Net core (linkedList)\curso . Net core (linkedList)\obj\Debug\netcoreapp3.1\curso . Net core (linkedList).pdb
+C:\Users\Esneyder\Desktop\c#\curso . Net core (linkedList)\curso . Net core (linkedList)\obj\Debug\netcoreapp3.1\curso . Net core (linkedList).genruntimeconfig.cache
